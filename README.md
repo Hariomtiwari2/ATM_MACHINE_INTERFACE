@@ -13,5 +13,5 @@ Features
 
 Technologies Used
 - Programming Language: Core Java
-- IDE: IntelliJ IDEA (Intellije Idea)
+- IDE: IntelliJ IDEA
 - Version Control: GitHub
